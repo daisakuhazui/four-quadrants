@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+## TODO
+* To construct develop environments
+* Modify database.yaml(dev, test, prod)
+* INstall AngularJS
+* Start four-quadrants versioning in GitHub
