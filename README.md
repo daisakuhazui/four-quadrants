@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.3.1p112
+
+* Rails version: Rails 5.1.6.1
 
 * System dependencies
 
@@ -25,5 +27,6 @@ Things you may want to cover:
 ## TODO
 * To construct develop environments
 * Modify database.yaml(dev, test, prod)
-* INstall AngularJS
-* Start four-quadrants versioning in GitHub
+* Install AngularJS
+* Introduce Gulp
+* exchange test to espec
